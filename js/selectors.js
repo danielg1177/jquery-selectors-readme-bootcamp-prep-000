@@ -1,1 +1,4 @@
-// declare your functions here...
+function paragraphSelector() {
+  let div = $('div')
+  return div
+}
