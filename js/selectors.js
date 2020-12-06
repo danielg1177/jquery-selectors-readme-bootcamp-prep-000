@@ -1,4 +1,4 @@
 function paragraphSelector() {
-  let div = $('div')
-  return div
+  
+  return $('div')
 }
